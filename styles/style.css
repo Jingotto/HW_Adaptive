@@ -15,7 +15,7 @@ body {
 }
 
 .wrapper {
-    width: 320px;
+    min-width: 320px;
     margin: 0 auto;
 }
 
@@ -104,11 +104,12 @@ body {
 }
 
 .partner-list-item {
+    margin: 0 auto;
     position: relative;
+    width: 320px;
 }
 
 .section-img {
-
     margin-bottom: 20px;
 }
 
