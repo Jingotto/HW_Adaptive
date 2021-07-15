@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../assets/font/montserrat-v15-latin-700.woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../assets/font/roboto-v27-latin-300.woff');
+}
