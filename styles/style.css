@@ -103,8 +103,12 @@ body {
     list-style: none;
 }
 
-.section-img {
+.partner-list-item {
     position: relative;
+}
+
+.section-img {
+
     margin-bottom: 20px;
 }
 
@@ -128,8 +132,8 @@ body {
 }
 
 .tv {
-    bottom: -25px;
-    right: 100px;
+    top: 42%;
+    right: 32%;
     background-color: #ff4e50;
 }
 
@@ -143,8 +147,8 @@ body {
 
 .colb {
     background-color: #ffa507;
-    right: 100px;
-    bottom: -265px;
+    top: 36%;
+    right: 32%;
 }
 
 .colb::before {
@@ -157,8 +161,8 @@ body {
 
 .cup {
     background-color: #1cd7ad;
-    right: 100px;
-    bottom: -540px;
+    top: 41%;
+    right: 32%;
 }
 
 .cup::before {
@@ -171,8 +175,8 @@ body {
 
 .telegram {
     background-color: #4e73db;
-    right: 100px;
-    bottom: -778px;
+    top: 42%;
+    right: 32%;
 }
 
 .telegram::before {
