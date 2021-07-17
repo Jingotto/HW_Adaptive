@@ -1,0 +1,60 @@
+@media (min-width: 768px) {
+    .wrapper {
+        min-width: 768px;
+    }
+
+    .main-header {
+        min-height: 700px;
+        background-image: url(../assets/decor-img/Vector\ Smart\ Object\(768png\).png);
+        background-color: #1a1915;
+    }
+
+    .link-container {
+        display: flex;
+        width: 673px;
+        margin-bottom: 155px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .nav-menu-list {
+        margin-bottom: 0;
+    }
+
+    .site-logo {
+        order: -1;
+    }
+
+    .top {
+        font-size: 52px;
+        margin-bottom: 36px;
+    }
+
+    .bot {
+        font-size: 24px;
+        margin-bottom: 35px;
+    }
+
+    .descr-br {
+        display: none;
+    }
+
+    .title-br {
+        display: none;
+    }
+
+    .partner-lits {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        height: 530px;
+        width: 492px;
+    }
+
+    .partner-section-button {
+        padding: 15px 28px;
+    }
+
+}
